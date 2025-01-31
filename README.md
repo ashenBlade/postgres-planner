@@ -2,14 +2,14 @@
 
 Описание и небольшой туториал по изучению работы планировщика PostgreSQL
 
-Используется версия PG 16.6
+Используется версия PG 16.4
 
 ## Путь изучения
 
 ### Базовые элементы
 
 1. [EquivalenceClass](pages/equivalenceclass.md)
-2. JoinDomain
+2. [JoinDomain](pages/joindomain.md)
 3. PHV, Var, Param
 4. PathKeys
 5. JoinTree
